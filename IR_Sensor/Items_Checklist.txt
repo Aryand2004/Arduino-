@@ -1,0 +1,8 @@
+Apparatuses required for this code: 
+- 1x Infrared Sensor
+- 2x M2M Jumper Wires 
+- 3x F2M Jumper Wires 
+- 1x Arduino Uno 
+- 1x Breadboard 
+- 1x LED 
+- 1x Resistor 
