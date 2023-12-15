@@ -1,0 +1,5 @@
+Items Required: 
+- 1x TCRT500 Line Sensors 
+- 1x Arduino Uno 
+- 1x Breadboard 
+- 5x M2M jumperwires 
