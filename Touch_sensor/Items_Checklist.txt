@@ -1,0 +1,8 @@
+Apparatuses required for this code: 
+- 1x Touch Sensor
+- 1x LED 
+- 1x Breadboard 
+- 1x Arduino Uno 
+- 1x Resistor 
+- 3x F2M Jumper Wires 
+- 2x M2M Jumper Wires 
