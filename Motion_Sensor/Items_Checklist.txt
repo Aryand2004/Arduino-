@@ -1,0 +1,6 @@
+Apparatuses required for this code: 
+- 3x M2M Jumper Wires 
+- 1x Arduino Uno Circuit 
+- 1x PIR Motion Circuit
+- 1x Resistor 
+- 1x LED 
