@@ -1,4 +1,0 @@
-Items Required: 
-- Fully Connected DC Shield 
-- Arduino Uno 
-- DC Motor 
